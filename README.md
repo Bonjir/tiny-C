@@ -17,7 +17,7 @@
 
 其中有语法分析错误的地方会输出出来（红色报错）
 
-最后中间语言生成（青色的代码，类汇编的三变量语言）
+最后中间语言生成（青色的代码，类汇编的三地址代码）
 
 <img src="https://github.com/Bonjir/tiny-C/blob/main/.images/Readme/cal&raise_error&assemble.jpg" width="75%" height="75%" />
 
