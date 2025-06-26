@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # VS project eggs
 *.obj
 *.enc
@@ -10,9 +8,9 @@
 *.recipe
 *.tlog
 *.lastbuildstate
+.vs
 
 
->>>>>>> 1e5694b (commit complete project)
 # Prerequisites
 *.d
 
