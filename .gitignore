@@ -1,0 +1,47 @@
+<<<<<<< HEAD
+=======
+# VS project eggs
+*.obj
+*.enc
+*.ilk
+*.log
+*.idb
+*.pdb
+*.recipe
+*.tlog
+*.lastbuildstate
+
+
+>>>>>>> 1e5694b (commit complete project)
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
