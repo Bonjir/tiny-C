@@ -1,7 +1,4 @@
 # tiny-C
-<<<<<<< HEAD
-大三上编译原理大作业-迷你C语言编译器
-=======
 这是一个大三上编译原理大作业-迷你C语言编译器
 
 可以实现**词法分析（Lexical analysis）、语法分析（Syntax analysis）、中间语言生成（Intermediate Representation）**
@@ -27,4 +24,3 @@
 tiny-C语法可以支持while循环、if-else判断、变量定义、输出显示。
 
 还是很有意思的一个实验，遂了小时候就一直想做编译器的梦
->>>>>>> 1e5694b (commit complete project)
